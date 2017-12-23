@@ -5,7 +5,7 @@ This project provides `docker-compose.yml`.
 
 You can run mongo db as docker container.
 
-This container use docker volume to store database data.
+This container uses docker volume to store database data.
 Even if you remove container, db data will be kept in docker volume.
 
 It exposes `27017` port.
